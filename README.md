@@ -1,5 +1,6 @@
-
-This repository contains a number of different scripts I have writted to perform small needed pre-processing tasks for a couple of different SNAP projects involving sea ice data. It is kept up-to-date based in the activity in the realm of sea ice data needs for SNAP.
+## Sea Ice Data Preparation Repository
+----------
+*This repository contains a number of different scripts I have writted to perform small needed pre-processing tasks for a couple of different SNAP projects involving sea ice data. It is kept up-to-date based in the activity in the realm of sea ice data needs for SNAP.*
 
 #### rasterize_seaIce_data.r
 
